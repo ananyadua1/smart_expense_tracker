@@ -157,6 +157,4 @@ http://localhost:8501
 **Ananya Dua**
 Built as a hands-on project to explore secure data handling, analytics dashboards, and financial decision support systems using Streamlit.
 
----
-Just tell me 👍
 ```
